@@ -9,5 +9,11 @@ Being a major food enthusiast and a food and beverage server in one of the resta
 ## Scope:
 
 ##### 1). Data Cleaning and formatting.
-##### 2). Administered functions like IFs, VLOOKUPS to projects information on restauarants,cuisines along with final sales by each restauarnts after discount.
-##### 3).Utilisation of pivot tables to summarize information and answering to important questions through visualisation.
+##### 2). Administered functions like IFs, VLOOKUPS to projects information on restauarants,cuisines along with final sales by restauarnts after discount.
+##### 3). Utilisation of pivot tables to summarize information and answering to important questions through visualisation.
+
+## Data Used:
+The data used in the project is taken from kaggle which consists of two tables that carries information on restaurants and orders. The orders and restaurants dataset represents 500 rows, 10 columns and 20 rows,5 columns respectively. 
+
+## Data cleaning and formatting:
+To make it simple to sort, filter, and format data, the orders dataset is first transformed into a table. The dataset was examined for the existence of blank cells and null values in order to clean it up. The columns were then given proper names, and any unnecessary columns were removed. The columns received the correct data formatting and had any duplicate values checked.
