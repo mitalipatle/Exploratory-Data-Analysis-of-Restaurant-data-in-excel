@@ -17,3 +17,12 @@ The data used in the project is taken from kaggle which consists of two tables t
 
 ## Data cleaning and formatting:
 To make it simple to sort, filter, and format data, the orders dataset is first transformed into a table. The dataset was examined for the existence of blank cells and null values in order to clean it up. The columns were then given proper names, and any unnecessary columns were removed. The columns received the correct data formatting and had any duplicate values checked.
+
+## Function Utilisation:
+Every consumer who placed an order for food worth ₹500 or more is entitled to a 5% discount. In order to identify those who are qualified for a discount, the IF function is used in conjunction with the column to construct a column with a discount.
+
+<img src="">
+
+Similar to this, the VLOOKUP function is used to find the values from the restaurant table using the restaurant id as a reference in order to include restaurant names and cuisines served by them in the orders table.
+
+<img src="">
