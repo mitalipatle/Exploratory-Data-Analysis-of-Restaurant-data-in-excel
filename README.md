@@ -21,8 +21,8 @@ To make it simple to sort, filter, and format data, the orders dataset is first 
 ## Function Utilisation:
 Every consumer who placed an order for food worth ₹500 or more is entitled to a 5% discount. In order to identify those who are qualified for a discount, the IF function is used in conjunction with the column to construct a column with a discount.
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/discounted%20price.png">
 
 Similar to this, the VLOOKUP function is used to find the values from the restaurant table using the restaurant id as a reference in order to include restaurant names and cuisines served by them in the orders table.
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/ADDING%20CUISINE%20IN%20ORDER%20USING%20VLOOKUP.png">
