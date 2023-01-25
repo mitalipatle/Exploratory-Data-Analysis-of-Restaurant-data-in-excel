@@ -26,3 +26,26 @@ Every consumer who placed an order for food worth ₹500 or more is entitled to 
 Similar to this, the VLOOKUP function is used to find the values from the restaurant table using the restaurant id as a reference in order to include restaurant names and cuisines served by them in the orders table.
 
 <img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/ADDING%20CUISINE%20IN%20ORDER%20USING%20VLOOKUP.png">
+
+## Data Analysis:
+
+**1).Total sales of each restaurant after discount.**
+
+Description:The pivot table provided a summary of the total sales made by each restaurant after allowing eligible customers to receive discounts. The visualisation makes use of a horizontal bar graph. Considering an equal investment made by each restaurant, it can be shown that Veer Restaurant has the most and Vrinda Bhavan has the lowest total sales, respectively.
+
+Results:
+<img src="">
+
+Visualisation:
+<img src="">
+
+**2). Average delivery time of each restaurant.**
+
+Description:The pivot table showed the average delivery time for each restaurant, with Ruchi having the longest average delivery time and The Cave Hotel having the shortest. The interesting thing to note is that there is only an 8-minute difference between these two restaurants. To display average delivery times in ascending order, a vertical bar graph is used.
+
+Results:
+<img src="">
+
+Visualisation:
+<img src="">
+
