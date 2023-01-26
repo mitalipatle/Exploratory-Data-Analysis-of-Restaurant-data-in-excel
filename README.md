@@ -33,19 +33,23 @@ Similar to this, the VLOOKUP function is used to find the values from the restau
 
 Description:The pivot table provided a summary of the total sales made by each restaurant after allowing eligible customers to receive discounts. The visualisation makes use of a horizontal bar graph. Considering an equal investment made by each restaurant, it can be shown that Veer Restaurant has the most and Vrinda Bhavan has the lowest total sales, respectively.
 
-Results:
-<img src="">
+**Results:**
 
-Visualisation:
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/total%20sales%20by%20each%20restaurant.png">
+
+**Visualisation:**
+
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/total%20sales%20visual.png">
 
 **2). Average delivery time of each restaurant.**
 
 Description:The pivot table showed the average delivery time for each restaurant, with Ruchi having the longest average delivery time and The Cave Hotel having the shortest. The interesting thing to note is that there is only an 8-minute difference between these two restaurants. To display average delivery times in ascending order, a vertical bar graph is used.
 
-Results:
-<img src="">
+**Results:**
 
-Visualisation:
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/delivery%20time%20pivot.png">
+
+**Visualisation:**
+
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/delivery%20time%20visual.png">
 
