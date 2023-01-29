@@ -59,11 +59,14 @@ Description: A pivot table displays the proportion of ordered food based on cuis
 
 **Results:**
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/Cuisine%20popularity%20pivot.png">
+
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/mode%20of%20payment%20pivot.png">
 
 **Visualisation:**
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/Cuisine%20popularity%20visual.png">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/mode%20of%20payment%20visual.png">
 
 **4). Average customer ratings for food and delivery services.**
 
@@ -71,11 +74,11 @@ Description: According to the data from the pivot table, Vrinda Bhavan has the h
 
 **Results:**
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/customer%20delivery%20rating%20pivot.png">
 
 **Visualisation:**
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/customer%20delivery%20rating%20visual.png">
 
 **5).A time series plot for ordered quantity.** 
 
@@ -83,8 +86,8 @@ Description:The pivot table displays the quantity of orders made in various time
 
 **Results:**
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/time%20series%20pivot.png">
 
 **Visualisation:**
 
-<img src="">
+<img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/time%20series%20visual.png">
