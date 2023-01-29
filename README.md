@@ -53,3 +53,38 @@ Description:The pivot table showed the average delivery time for each restaurant
 
 <img src="https://github.com/mitalipatle/Restaurant-data-analysis-in-excel/blob/main/Images/delivery%20time%20visual.png">
 
+**3). Popular cuisine and the preferred method of payment.**
+
+Description: A pivot table displays the proportion of ordered food based on cuisine and payment method, sorted in ascending order. North Indian and Chinese cuisine are the most favored by customers, while Arabian cuisine is the least preferred. The most common method of payment is Debit Card, followed closely by Cash on Delivery, with credit card being the least used. A donut and a pie chart are utilized to visually represent the data.
+
+**Results:**
+
+<img src="">
+
+**Visualisation:**
+
+<img src="">
+
+**4). Average customer ratings for food and delivery services.**
+
+Description: According to the data from the pivot table, Vrinda Bhavan has the highest average customer ratings and The Cave Hotel has the best average delivery rating, which aligns with their fast delivery time. Conversely, Win Hotel has the lowest customer rating, and Denver Restaurant has the lowest delivery rating.
+
+**Results:**
+
+<img src="">
+
+**Visualisation:**
+
+<img src="">
+
+**5).A time series plot for ordered quantity.** 
+
+Description:The pivot table displays the quantity of orders made in various time slots. The data is displayed through a time series line chart, revealing that the peak number of orders occurred from 2 to 3 PM, likely due to it being lunchtime, while the fewest orders were made between 10-11 PM.
+
+**Results:**
+
+<img src="">
+
+**Visualisation:**
+
+<img src="">
