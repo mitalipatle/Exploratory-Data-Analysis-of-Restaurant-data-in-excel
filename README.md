@@ -1,4 +1,4 @@
-# Restaurant-data-analysis-in-excel
+# Exploratory Data Analysis of Restaurant data in excel
 
 ## Introduction:
 
